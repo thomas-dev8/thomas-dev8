@@ -24,10 +24,9 @@ i like building things that probably don't need to exist.
 ## what i actually do
 
 - make side projects at weird hours
-- learn things by breaking them first
-- start 10 ideas, finish 4
-- slowly getting better at backend stuff
-- experimenting with AI because why not
+- learn unnecessary things
+- start 10 ideas, finish 2
+- slowly getting better (hopefully 🙏🙏)
 
 ---
 
@@ -35,19 +34,9 @@ i like building things that probably don't need to exist.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,git,vscode" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,git,vscode,cursor" />
 
 </div>
-
----
-
-## current focus
-
-- finishing what i start
-- making tools that feel powerful
-- understanding how things *actually* work
-- shipping more, overthinking less
-
 
 ---
 
@@ -71,4 +60,5 @@ i like building things that probably don't need to exist.
 
 ---
 
-if you're here, i'm probably building something new instead of sleeping.
+if youre here, know u wasted ur time
+
